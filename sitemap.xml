@@ -1,197 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://yourg.in/</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/services</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/blogs</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/pages/2-telegram-channel</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/pages/3-learn-how-to-use-yourg</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/pages/4-turn-off-flag-for-review</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/pages/5-terms-and-conditions</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/reg</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/facebook</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/telegram</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/reel-likes</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/35</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/34</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/post-likes</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/followers</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/indian-followers</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/33</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/indian-post-likes</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/32</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/facebook/13</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/facebook/14</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/facebook/16</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/facebook/15</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube/youtube-subscribers</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube/12</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube/10</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube/short-views</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/youtube/video-views</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/telegram/channel-indian-members</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/telegram/channel-members</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/telegram/post-views</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/what-is-yourgin</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/news-1</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yourg.in/order/INSTAGRAM/84</loc>
-  <lastmod>2025-05-04T14:16:28+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://yourg.in/</loc>
+    <lastmod>2025-05-04T17:21:59+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yourg.in/services</loc>
+    <lastmod>2025-05-04T17:21:59+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yourg.in/contact</loc>
+    <lastmod>2025-05-04T17:21:59+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yourg.in/about</loc>
+    <lastmod>2025-05-04T17:21:59+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://yourg.in/blog</loc>
+    <lastmod>2025-05-04T17:21:59+00:00</lastmod>
+  </url>
 </urlset>
